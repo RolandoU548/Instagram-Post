@@ -1,5 +1,4 @@
 * {
-    /* border: dashed red 1px; */
     margin:0;
 }
 
@@ -29,7 +28,7 @@ body{
 }
 
 .post-body{
-    padding: 8px;
+    padding: 4px;
     text-align: justify;
 }
 
@@ -46,12 +45,14 @@ body{
 }
 
 .separado2 {
-    margin-left: 225px;
+    margin-left: 215px;
 }
 
 .contenedor-iconos{
     display: flex;
-    height: 40px;
+    height: 30px;
+    margin-left: 5px;
+    padding: 5px;
 }
 
 i{
